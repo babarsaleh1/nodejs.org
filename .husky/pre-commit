@@ -3,3 +3,4 @@ npx lint-staged
 
 # verify typescript staged files
 npx tsc --build apps/site
+# verify typescript staged files
